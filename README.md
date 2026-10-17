@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <a href="https://lnynano.com"><img src="https://img.shields.io/badge/lnynano.com-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Website"></a>
-  <a href="mailto:kiktichej@lnynano.com"><img src="https://img.shields.io/badge/kiktichej@lnynano.com-0D1117?style=for-the-badge&logo=maildotru&logoColor=58A6FF" alt="Email"></a>
-  <a href="https://lnynano.com/cv"><img src="https://img.shields.io/badge/CV-0D1117?style=for-the-badge&logo=readthedocs&logoColor=58A6FF" alt="CV"></a>
-  <a href="https://www.instagram.com/lnynano"><img src="https://img.shields.io/badge/@lnynano-0D1117?style=for-the-badge&logo=instagram&logoColor=58A6FF" alt="Instagram"></a>
+  <a href="https://lnynano.com"><img src="https://img.shields.io/badge/lnynano.com-0A0A0C?style=for-the-badge&logo=googlechrome&logoColor=39FF6A" alt="Website"></a>
+  <a href="mailto:kiktichej@lnynano.com"><img src="https://img.shields.io/badge/kiktichej@lnynano.com-0A0A0C?style=for-the-badge&logo=maildotru&logoColor=39FF6A" alt="Email"></a>
+  <a href="https://lnynano.com/cv"><img src="https://img.shields.io/badge/CV-0A0A0C?style=for-the-badge&logo=readthedocs&logoColor=39FF6A" alt="CV"></a>
+  <a href="https://www.instagram.com/lnynano"><img src="https://img.shields.io/badge/@lnynano-0A0A0C?style=for-the-badge&logo=instagram&logoColor=39FF6A" alt="Instagram"></a>
 </p>
 
 <p align="center">
