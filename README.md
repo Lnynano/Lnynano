@@ -14,7 +14,7 @@ I build practical tools for everyday problems — web apps, data/AI projects, an
 | Project | What it does | Stack |
 |---|---|---|
 | [**Normalday**](https://github.com/Lnynano/normalday) · [live](https://lnynano.github.io/normalday/) | Personal "Swiss army knife" web app — everyday calculators & quick references for life in Thailand (coin laundry, electricity bill, bill split). Installable PWA, bilingual TH/EN. | React · TypeScript · Vite · PWA |
-| [**TU Shooting Scoreboard**](https://github.com/Lnynano/tu-shooting-scoreboard) | Live ISSF shooting scoreboard for TU Shooting Club — realtime results, projector board, staff score entry, tie-break & team ranking, Excel import/export, print sheets. | JavaScript · Supabase (Realtime, RLS) · GitHub Pages |
+| [**TU Shooting Scoreboard**](https://github.com/Lnynano/tu-shooting-scoreboard) · [live](https://lnynano.github.io/tu-shooting-scoreboard/) | Live ISSF shooting scoreboard for TU Shooting Club — realtime results, projector board, staff score entry, tie-break & team ranking, Excel import/export, print sheets. | JavaScript · Supabase (Realtime, RLS) · GitHub Pages |
 
 ---
 
