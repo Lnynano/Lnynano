@@ -21,8 +21,8 @@
 ## ⌁ Featured projects
 
 <p align="center">
-  <a href="https://github.com/Lnynano/normalday"><img src="./assets/card-normalday.svg" alt="Normalday — everyday tools for life in Thailand" width="49%"></a>
-  <a href="https://github.com/Lnynano/tu-shooting-scoreboard"><img src="./assets/card-shooting.svg" alt="TU Shooting Scoreboard — live ISSF scoreboard" width="49%"></a>
+  <a href="https://tools.lnynano.com"><img src="./assets/card-normalday.svg" alt="Normalday — everyday tools for life in Thailand" width="49%"></a>
+  <a href="https://shooting.lnynano.com"><img src="./assets/card-shooting.svg" alt="TU Shooting Scoreboard — live ISSF scoreboard" width="49%"></a>
 </p>
 
 <p align="center">
