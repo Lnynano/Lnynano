@@ -26,8 +26,13 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/Lnynano/pc-maintenance-releases"><img src="./assets/card-pc-maintenance.svg" alt="PC Maintenance — Windows 10/11 maintenance tool" width="49%"></a>
+</p>
+
+<p align="center">
   <a href="https://tools.lnynano.com">Normalday live ↗</a> &nbsp;·&nbsp;
-  <a href="https://shooting.lnynano.com">Scoreboard live ↗</a>
+  <a href="https://shooting.lnynano.com">Scoreboard live ↗</a> &nbsp;·&nbsp;
+  <a href="https://github.com/Lnynano/pc-maintenance-releases/releases/latest">PC Maintenance download ↗</a>
 </p>
 
 <details>
